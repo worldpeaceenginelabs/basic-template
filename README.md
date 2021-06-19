@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# create-react-app with mainscreen, and menu with animation
+React JS + Material UI
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
