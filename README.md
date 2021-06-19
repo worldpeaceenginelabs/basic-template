@@ -1,5 +1,5 @@
 # create-react-app with mainscreen, and menu with animation
-React JS + Material UI
+React JS
 
 ## Getting Started with Create React App
 
